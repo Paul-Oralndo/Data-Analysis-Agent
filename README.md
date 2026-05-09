@@ -71,6 +71,6 @@ with row count validation.
 
 ## Author
 
-Paul Forlando
+Paul Orlando
 Creative Technologist | AI Agent Developer | Data Analytics
 🌐 [paulforlando.com](https://www.paulforlando.com)
