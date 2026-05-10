@@ -34,6 +34,28 @@ and Executive users.
 
 ---
 
+## Example Output — Black Hole Effects Research
+
+The agent was queried about black hole physics and produced
+a full research presentation including data visualizations.
+
+**Query used:**
+> "What causes black holes? What are the effects near one?"
+
+**Output includes:**
+- Key concepts: gravity, tidal forces, orbital velocity
+- Time dilation curve near event horizon
+- Orbital instability growth simulation
+- Evidence-based key takeaways
+
+📄 [Research Presentation (PDF)](examples/black_hole_research_presentation.pdf)
+📊 [Research Presentation (PowerPoint)](examples/black_hole_presentation.pptx)
+
+> Grounding Score: High — all content retrieved from
+> knowledge base, no hallucination detected
+
+---
+
 ## Instruction Set
 
 The agent is powered by a versioned, compact instruction 
